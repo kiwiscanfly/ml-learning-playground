@@ -1,0 +1,5 @@
+/.env
+/headers_auth.json
+/music-playlists
+/favourite_playlist.csv
+/.DS_Store
