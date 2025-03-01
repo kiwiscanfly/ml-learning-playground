@@ -1,3 +1,3 @@
 # ml-learning-playground
 
-Just some Python files where I have done some learning around ML
+A space where I have done some learning around ML, Python, etc
